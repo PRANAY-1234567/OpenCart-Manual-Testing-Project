@@ -36,6 +36,7 @@ A standardized reporting template for logging bugs — including steps to reprod
 - Cross-browser Testing (Chrome, Firefox, Edge, Safari)
 
 ## Target Audience
+
 QA engineers, test leads, and anyone looking for a reference example of end-to-end manual testing documentation — from planning through execution.
 
 ## Author
