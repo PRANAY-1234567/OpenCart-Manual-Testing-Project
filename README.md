@@ -8,6 +8,7 @@ This project simulates a full manual testing engagement — from writing a forma
 
 ## Key Features
 
+
 **Test Plan**
 A structured test plan covering scope, test strategy, environments, roles, entry/exit criteria, and risk mitigation — following standard STLC practices.
 
