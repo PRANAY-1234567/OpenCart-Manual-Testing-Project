@@ -14,6 +14,7 @@ A structured test plan covering scope, test strategy, environments, roles, entry
 **Test Cases**
 300+ test cases spanning user registration, login/logout, product search, cart, checkout, wishlist, order history, and admin functions. Cases are organized by module and mapped to test scenarios for easy navigation.
 
+
 **Test Scenarios**
 Step-by-step scenarios covering key user journeys, ensuring consistent execution and thorough coverage across testers.
 
